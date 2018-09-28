@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');    
 const db = require('quick.db');       
 const hastebin = require('hastebin-gen');
